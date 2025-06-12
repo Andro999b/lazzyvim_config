@@ -9,3 +9,5 @@ vim.g.rustaceanvim = {
 }
 
 vim.g.lazyvim_rust_diagnostics = "rust-analyzer"
+vim.opt.exrc = true
+vim.opt.secure = true
